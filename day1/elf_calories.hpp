@@ -5,6 +5,5 @@
 #include <string>
 #include <fstream>
 
-int elf();
 
 #endif
